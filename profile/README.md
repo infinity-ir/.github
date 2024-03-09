@@ -1,4 +1,6 @@
-## Hi there 👋
+## InFinity Community
+
+Discord: [Link](https://discord.gg/nfteam)
 
 <!--
 
