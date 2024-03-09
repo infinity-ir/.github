@@ -22,17 +22,17 @@ Our values are the core principles that guide our actions and decisions as a com
 
 ## Our history 📜
 
-InFinity Community was founded in 2020 by a group of tech enthusiasts who met online and decided to form a community to share their knowledge, skills, and projects with each other. Since then, the community has grown to over 10,000 members from more than 100 countries, and has organized and participated in various events, workshops, hackathons, and competitions.
+InFinity Community was founded in 2023 by a group of tech enthusiasts who met online and decided to form a community to share their knowledge, skills, and projects with each other. Since then, the community has grown to over 1,000 members from more than 10 countries, and has organized and participated in various events, workshops, hackathons, and competitions.
 
 ## Our achievements 🏆
 
 Some of the achievements we are proud of as a community are:
 
-- Winning the first prize in the Global Hackathon 2021, a 48-hour online hackathon that challenged participants to build solutions for the United Nations Sustainable Development Goals.
-- Launching InFinity Labs, a platform that showcases the projects and products developed by our members and provides them with feedback, mentorship, and funding opportunities.
-- Partnering with leading tech companies and organizations, such as Microsoft, Google, GitHub, and Code for All, to offer our members exclusive access to resources, programs, and benefits.
-- Reaching over 1 million views on our YouTube channel, where we upload videos of our events, workshops, tutorials, and interviews with experts and influencers in the tech industry.
-- Receiving the Community of the Year Award 2021, a prestigious award that recognizes the best and most impactful tech communities around the world.
+- Developing InFinity discord bot, a bot that connects our Discord server with other global servers and provides various features and commands for our members and guests.
+- Creating FiveM Timer, a bot that calculates and displays the time played by each player on our FiveM server, a multiplayer modification for Grand Theft Auto V.
+- Reaching over 1,000 members on our Discord server, where we chat, share, and learn with each other in a friendly and supportive environment.
+- Launching Infinity ar, a camera app that allows users to display pictures over pictures using augmented reality technology.
+- Inventing .infinity, a programming language that is simple, expressive, and powerful, and that can be used to create any kind of application or software.
 
 ## How to join us 🙌
 
