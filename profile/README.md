@@ -33,6 +33,8 @@ Some of the achievements we are proud of as a community are:
 - Reaching over 1,000 members on our Discord server, where we chat, share, and learn with each other in a friendly and supportive environment.
 - Launching Infinity ar, a camera app that allows users to display pictures over pictures using augmented reality technology.
 - Inventing .infinity, a programming language that is simple, expressive, and powerful, and that can be used to create any kind of application or software.
+- Building **OverLand RolePlay** support discord bot, a bot that helps our members to join and play on our OverLand RolePlay server, a realistic and immersive roleplaying experience based on Grand Theft Auto V (FiveM).
+- Designing **OverLand RolePlay** main discord bot, a bot that manages our main Discord server and provides various functionalities and integrations for our community.
 
 ## How to join us 🙌
 
@@ -40,7 +42,7 @@ If you are interested in joining our community, you can:
 
 <!-- - Follow us on our social media channels, such as [Twitter](^3^), [Facebook](^4^), [Instagram](^5^), and [LinkedIn](^6^), to stay updated on our latest news and activities. -->
 - Join our [Discord server](https://discord.gg/nfteam), where you can chat with other members, ask questions, share your projects, and join our sub-communities based on your interests and skills.
-- Sign up for our [newsletter](^8^), where you can receive monthly updates on our events, workshops, opportunities, and more.
+- Sign up for our [newsletter](https://discord.gg/nfteam), where you can receive monthly updates on our events, workshops, opportunities, and more.
 - Attend our [events], where you can meet other members, learn new skills, and work on exciting projects.
 - Contribute to our [GitHub repositories], where you can find the source code of our projects and products, and help us improve them by submitting issues and pull requests.
 
