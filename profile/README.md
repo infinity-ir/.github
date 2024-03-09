@@ -1,4 +1,4 @@
-# InFinity Community
+# InFinity Community ![Header](./community.png)
 
 Discord: [Link](https://discord.gg/nfteam)
 
