@@ -40,21 +40,9 @@ Some of the achievements we are proud of as a community are:
 
 If you are interested in joining our community, you can:
 
-<!-- - Follow us on our social media channels, such as [Twitter](^3^), [Facebook](^4^), [Instagram](^5^), and [LinkedIn](^6^), to stay updated on our latest news and activities. -->
 - Join our [Discord server](https://discord.gg/infinitytm), where you can chat with other members, ask questions, share your projects, and join our sub-communities based on your interests and skills.
 - Sign up for our [newsletter](https://discord.gg/infinitytm), where you can receive monthly updates on our events, workshops, opportunities, and more.
 - Attend our [events], where you can meet other members, learn new skills, and work on exciting projects.
 - Contribute to our [GitHub repositories], where you can find the source code of our projects and products, and help us improve them by submitting issues and pull requests.
 
 We look forward to welcoming you to our community and working with you on amazing things! 😊
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
