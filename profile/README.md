@@ -29,12 +29,13 @@ InFinity Community was founded in 2023 by a group of tech enthusiasts who met on
 Some of the achievements we are proud of as a community are:
 
 - Developing **InFinity Discord Bot**, a bot that connects our Discord server with other global servers and provides various features and commands for our members and guests.
-- Creating FiveM Timer, a bot that calculates and displays the time played by each player on our FiveM server, a multiplayer modification for Grand Theft Auto V (FiveM).
+- Creating **FiveM Timer**, a bot that calculates and displays the time played by each player on our FiveM server, a multiplayer modification for Grand Theft Auto V (FiveM).
 - Reaching over **1,100 members** on our Discord server, where we chat, share, and learn with each other in a friendly and supportive environment.
 - Launching **InFinity AR**, a camera app that allows users to display pictures over pictures using augmented reality technology.
 - Inventing **.infinity**, a programming language that is simple, expressive, and powerful, and that can be used to create any kind of application or software.
 - Building **OverLand RolePlay** support discord bot, a bot that helps our members to join and play on our OverLand RolePlay server, a realistic and immersive roleplaying experience based on Grand Theft Auto V (FiveM).
 - Designing **OverLand RolePlay** main discord bot, a bot that manages our main Discord server and provides various functionalities and integrations for our community.
+- Launching Game **World of Legends** in MMORPG mode for MMO players with over 70 hours timeplay.
 
 ## How to join us 🙌
 
