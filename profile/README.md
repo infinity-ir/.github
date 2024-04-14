@@ -1,4 +1,9 @@
 # Welcome to InFinity Community 👋
+<div align="center">
+    <a href="https://discord.gg/infinitytm"><img src="https://badgen.net/discord/members/infinitytm?icon=discord" alt="InFinity Community"/></a>
+    <a href="https://x.com/infinitytm_ir"><img src="https://img.shields.io/twitter/follow/InFinityTm_ir?style=social" alt="InFinityTm_ir"/></a>
+    <a href="https://t.me/infinitytm_ir"><img src="https://badgen.net/badge/Telegram/InFinity%20Community/?icon=telegram"/></a>
+</div>
 
 InFinity Community is a global network of developers, designers, entrepreneurs, and enthusiasts who share a passion for creating innovative and impactful solutions using cutting-edge technologies.
 
